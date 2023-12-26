@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /build/
+Disallow: /vendors/
+
+
+Sitemap: https://kalaharitradegroup.co/sitemap.xml
