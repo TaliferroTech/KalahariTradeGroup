@@ -1,11 +1,11 @@
 User-agent: *
 Allow: /
-Disallow: /img/
-Disallow: /css/
-Disallow: /js/
-Disallow: /fonts/
-Disallow: /build/
-Disallow: /vendors/
+Disallow: /index-work.html
+Disallow: /about-work.html
+Disallow: /contact-work.html
+Disallow: /lesotho-work.html
+Disallow: /liberia-work.html
+Disallow: /thailand-work.html
 
 
 Sitemap: https://kalaharitradegroup.co/sitemap.xml
